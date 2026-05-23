@@ -1,0 +1,7 @@
+{
+  "name": "Fish Speech Web UI",
+  "description": "A production-ready React frontend for Fish Speech S2. Designed to connect to a remote GPU backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
